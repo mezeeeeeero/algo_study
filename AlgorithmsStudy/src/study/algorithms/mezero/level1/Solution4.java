@@ -19,7 +19,6 @@ public class Solution4 {
             answer++;
         }
 
-        System.out.println(answer);
         return answer;
     }
 }
