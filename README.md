@@ -1,10 +1,27 @@
+<h1 align=center> 
+Algorithm Study By.Mezero
+</h1>
 
-# Algorithm Study By.Mezero
+---
 
-## Goals
-🤜 메이저 회사의 코딩테스트 준비
+<br/>
 
-🤜 알고리즘을 통한 사고능력 상승 
 
-🤜 메이저 회사로의 이직 ex)네카라쿠배
+<h2 align=center> 💡 Git Stats 💡 </h2>
 
+ <div align=center>
+
+
+![mezeeeeeero](https://github-readme-stats.vercel.app/api?username=mezeeeeeero&show_icons=true&locale=kr&hide=contribs)
+
+![mezeeeeeero](https://github-readme-streak-stats.herokuapp.com/?user=mezeeeeeero&)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mezeeeeeero&langs_count=8&layout=compact)
+</div>
+
+<br/>
+<br/>
+<br/>
+
+> 문제출처 : 프로그래머스 [(https://programmers.co.kr/learn/challenges)](https://programmers.co.kr/learn/challenges)
+> 
