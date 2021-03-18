@@ -45,4 +45,8 @@
 <br/>
 
 ### ⌛️ Career Description ⌛️ 
-![career]()
+👉 [경력기술서.pdf] [1]
+
+
+
+[1]: https://github.com/mezeeeeeero/algo_study/blob/main/resume/career_description.pdf
