@@ -21,12 +21,17 @@
 
 ### 경력
 #### 총 경력 : 2년 10개월 
-|근무기간 | 회사명 | 부서 / 직급| 지역 / 직종| 연봉 |퇴직사유|
-|---|---|---|---|---|---|
-|2019.05 ~ 재직중 | 씽킹블록체인 | 개발/사원 | 서울 / 웹개발 | 3800|개인사정|
-|2018.12 ~ 2019.04 | 한국크레딕라이프 | 연구소/연구원 | 서울 / 웹개발 | 3000|
-|2018.06 ~ 2018.12 | 아이앤비앰 | 개발/사원 | 서울 / 웹개발 | 2500|개인사정
+|근무기간 | 회사명 | 부서 / 직급| 지역 / 직종| 연봉 |
+|---|---|---|---|---|
+|2019.05 ~ 재직중 | 씽킹블록체인 | 개발/사원 | 서울 / 웹개발 | 3800
+|2018.12 ~ 2019.04 | 한국크레딕라이프 | 연구소/연구원 | 서울 / 웹개발 |3000
+|2018.06 ~ 2018.12 | 아이앤비앰 | 개발/사원 | 서울 / 웹개발 | 2500
 
+<br/>
+
+--- 
+
+<br/>
 
 ### 💪 Tech Stack 💪
 
@@ -45,8 +50,14 @@
 <br/>
 
 ### ⌛️ Career Description ⌛️ 
-👉 [경력기술서.pdf] [1]
+👉 [경력기술서.pdf]
 
 
+<br/>
 
-[1]: https://github.com/mezeeeeeero/algo_study/blob/main/resume/career_description.pdf
+### ✍️ Resume ✍️
+👉 [외부이력서_사람인이력서.pdf]
+
+
+[경력기술서.pdf]: https://github.com/mezeeeeeero/algo_study/blob/main/resume/career_description.pdf
+[외부이력서_사람인]: https://github.com/mezeeeeeero/algo_study/blob/main/resume/resume_saramin.pdf
