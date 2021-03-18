@@ -60,4 +60,4 @@
 
 
 [경력기술서.pdf]: https://github.com/mezeeeeeero/algo_study/blob/main/resume/career_description.pdf
-[외부이력서_사람인]: https://github.com/mezeeeeeero/algo_study/blob/main/resume/resume_saramin.pdf
+[외부이력서_사람인이력서.pdf]: https://github.com/mezeeeeeero/algo_study/blob/main/resume/resume_saramin.pdf
