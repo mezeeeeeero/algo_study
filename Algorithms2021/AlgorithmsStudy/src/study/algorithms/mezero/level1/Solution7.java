@@ -22,12 +22,14 @@ public class Solution7 {
                 int l_distance = getDistance(l_temp, i);
 
                 if (r_distance == l_distance) {
-                    answer = answer + hand;
-                    if ("R".equals(hand)) {
+                    if ("right".equals(hand)) {
+                        answer = answer + "R";
                         r_temp = i;
                     } else {
+                        answer = answer + "L";
                         l_temp = i;
                     }
+
                 } else if (r_distance > l_distance) {
                     answer = answer + "L";
                     l_temp = i;
