@@ -1,4 +1,4 @@
-package study.algorithms.mezero.level1;
+package study.algorithms.mezero.programmers.java;
 
 import java.util.ArrayList;
 
