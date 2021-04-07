@@ -1,4 +1,4 @@
-package study.algorithms.mezero.programmers.java.question;
+package study.algorithms.mezero.programmers.java;
 
 import java.util.*;
 
