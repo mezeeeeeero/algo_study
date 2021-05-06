@@ -1,3 +1,9 @@
+
+입사로 인해 잠시 쉬어갑니다. 
+---
+
+
+
 <h1 align=center> 
 Algorithm Study By.Mezero
 </h1>
